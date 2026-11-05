@@ -1,11 +1,117 @@
+
+
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IT+Trad:wght@100..400&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+</style>
+
+
+
+.playwrite-it-trad-<uniquifier> {
+  font-family: "Playwrite IT Trad", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.source-code-pro-<uniquifier> {
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+
 body {
 }
+
+
 
 header {
 }
 
+
+
 main {
+
 }
 
+
+
+
+#section1 {
+    Border: 10px solid darkred;
+    Margin: 1em;
+    Padding: 3em;    
+}
+#p1 {
+  font-family: "Playwrite IT Trad", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100-400; 
+  font-style: normal;
+  font-size: 20px;
+
+}
+#li1 {
+  text-indent: 4em;
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-weight: 100-400;
+  font-style: normal;
+  font-size: 20px;
+}
+
+
+
+#section2 {
+    Border: 10px solid darkred;
+    Margin: 1em;
+    Padding: 3em;    
+} 
+#p2 {
+  font-family: "Playwrite IT Trad", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100-400; 
+  font-style: normal;
+  font-size: 20px;
+
+}
+#li2 {
+  text-indent: 4em;
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-weight: 100-400;
+  font-style: normal;
+  font-size: 20px;
+
+}
+
+
+#section3 {
+    Border: 10px solid darkred;
+    Margin: 1em;
+    Padding: 3em; 
+} 
+#p3 {
+  font-family: "Playwrite IT Trad", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100-400; 
+  font-style: normal;
+  font-size: 20px;
+}
+#li3 {
+  text-indent: 4em; 
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-weight: 100-400;
+  font-style: normal;
+  font-size: 20px;
+}
+
+
+
 footer {
+}
+h6 {
+
 }
